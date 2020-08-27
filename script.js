@@ -12,4 +12,5 @@ const uncheckedCountSpan = document.getElementById('unchecked-count')
 
 function addTodo() {
   alert('Boton Add TODO clickeado!')
+  console.log("test")
 }
