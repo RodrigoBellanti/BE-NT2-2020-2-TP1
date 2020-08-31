@@ -13,4 +13,3 @@ Dentro de [styles.css](/styles.css), encontrarás algun codigo css para tu conve
 [script.js](/script.js)  es donde la mayoría del trabajo debería ser realizado. Existe un codigo inicial para ti dentro del archivo. La variable `classNames` puede ser usada para linkear cualquier elemento que crees dentro del JS con su clase CSS asociada. Las proximas tres (3) lineas de codigo son los elementos HTML que tu necesitaras actualizar cuando se cree una nueva tarea. Por ultimo, verás una function `addTodo()`. Esta es ejecutada cuando se crea una nueva tarea. Tendras que reemplazar la llamada del `alert()` con la logica para crear nuevas tareas.
 
 Buena suerte!
-asd
